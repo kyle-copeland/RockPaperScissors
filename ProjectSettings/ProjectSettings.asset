@@ -461,8 +461,9 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudServicesEnabled:
+    UNet: 1
+  cloudProjectId: 5a47b64a-bf0e-457a-ba9b-03e867c2ad0e
+  projectName: Rock Paper Scissors
+  organizationId: kcopeland
   cloudEnabled: 0
